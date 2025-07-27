@@ -1,8 +1,15 @@
 # PlanPro - Event Management System
 
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=adel141.adel141)
+
 PlanPro is a comprehensive Event Management System developed as part of the **Object Oriented Programming Language II (OOP2)** course at **American International University-Bangladesh (AIUB)**. This project streamlines the management of events, users, venues, registrations, and notifications with a modern Windows Forms UI powered by Siticone UI.
 
 ![Promotional Banner](/csharp.png)
+
+
+🚀 Developer of **PlanPro** – an Event Management System using C#, SQL Server & Siticone UI  
+🎓 AIUB – OOP2 Project  
+🔗 [GitHub Repo](https://github.com/adel141/PlanPro)
 
 ## Features
 
